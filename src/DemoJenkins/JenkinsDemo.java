@@ -9,6 +9,7 @@ public class JenkinsDemo {
 	{
 		
 		System.out.println("Welcome to jenkins world");
+		System.out.println("Welcome to Github");
 
 	}
 
